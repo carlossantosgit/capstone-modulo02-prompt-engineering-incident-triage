@@ -2,6 +2,8 @@
 
 **Intelligent Incident Triage & Response System** (Sistema Inteligente de Triagem e Resposta a Incidentes) — documento principal: relatório final de avaliação.
 
+**Versão em PDF:** [Relatorio-Final-Capstone-Modulo02.pdf](Relatorio-Final-Capstone-Modulo02.pdf)
+
 > **Nota sobre este repositório.** Este repositório público contém apenas o documento principal. O projeto completo (8 prompts V1/V2, schemas, suíte de 12 casos, scripts de métricas, saídas brutas das 72 execuções do pipeline e das 60 execuções do validador, exemplos e demais documentos) é referenciado abaixo pelos caminhos relativos (`docs/…`, `prompts/…`, `tests/…`, `results/…`) e é entregue separadamente (arquivo .zip). Todos os números deste documento vêm de `results/metrics_v1.json` e `results/metrics_v2.json` do projeto completo. Nomes de arquivos, códigos de teste (TC-xxx) e valores de campos (`CORRIGIR`, `SUCCESS`, etc.) foram mantidos como no projeto.
 
 ---
